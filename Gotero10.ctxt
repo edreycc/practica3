@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=cantidadG\ tiempoX
+comment0.target=int\ contarLaCantidad(int,\ int)
+numComments=1

@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=usuariosA\ usuariosB
+comment0.target=int\ cantidadDeUsuario(int,\ int)
+numComments=1
